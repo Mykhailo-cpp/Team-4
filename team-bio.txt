@@ -7,3 +7,5 @@ Mykhailo - Software Engineer student in Vilnius. I want to build strong backend 
 Francesco - Frontend developer from Italy living in Latvia. I want to learn backend with Java.
 
 Erika – FutureTech internship participant, working as a UX/UI Designer. Aiming to bridge design thinking with stronger Java development skills. I want to build a working understanding of Java and backend development, something I've mostly seen from the other side as a UX/UI designer.
+
+Sonakshi- Hello everyone. My name is Sonakshi Gupta. Through this bootcamp i want to improve my java skills.
