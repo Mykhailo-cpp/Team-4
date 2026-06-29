@@ -1,12 +1,11 @@
 # Team Bio
 
-Hello everyone. My name is Sonakshi Gupta. I have completed my MCA and recently
-completed a Test Automation Bootcamp where I learned Java, Selenium WebDriver, Cucumber,
-Gherkin, and Manual Testing.I enjoy learning new technologies and improving my programming
- skills.I am excited to be part of this Java Bootcamp and look forward to learning from
- mentors and collaborating with my teammates.
+Adrian - I’m a Data Engineer from Vilnius. I wish to keep developing my backend skills and one day create an Android app with Jetpack Compose. During this bootcamp, I want to further develop my Java skills
 
- During this bootcamp, I want to strengthen my Java fundamentals, improve my backend
- development skills, learn Spring Boot, Git, and REST APIs, and gain confidence in
- building real-world applications. I also want to improve my teamwork and problem-solving
-  skills by collaborating with my teammates.
+Mykhailo - Software Engineer student in Vilnius. I want to build strong backend solutions that will solve large problems. I want to learn more about backend development and improve my skills in Java and Spring Boot and challenge myself with something new.
+
+Francesco - Frontend developer from Italy living in Latvia. I want to learn backend with Java.
+
+Erika – FutureTech internship participant, working as a UX/UI Designer. Aiming to bridge design thinking with stronger Java development skills. I want to build a working understanding of Java and backend development, something I've mostly seen from the other side as a UX/UI designer.
+
+Sonakshi- Hello everyone. My name is Sonakshi Gupta. Through this bootcamp i want to improve my java skills.
