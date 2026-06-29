@@ -4,4 +4,6 @@ Adrian - I’m a Data Engineer from Vilnius. I wish to keep developing my backen
 
 Mykhailo - Software Engineer student in Vilnius. I want to build strong backend solutions that will solve large problems. I want to learn more about backend development and improve my skills in Java and Spring Boot and challenge myself with something new.
 
-Erika - FutureTech internship participant, working as a UX/UI Designer. Aiming to bridge design thinking with stronger Java development skills. I want to build a working understanding of Java and backend development — something I've mostly seen from the other side as a UX/UI designer. 
+Francesco - Frontend developer from Italy living in Latvia. I want to learn backend with Java.
+
+Erika – FutureTech internship participant, working as a UX/UI Designer. Aiming to bridge design thinking with stronger Java development skills. I want to build a working understanding of Java and backend development, something I've mostly seen from the other side as a UX/UI designer.
