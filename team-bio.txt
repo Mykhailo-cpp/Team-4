@@ -1,0 +1,12 @@
+# Team Bio
+
+Hello everyone. My name is Sonakshi Gupta. I have completed my MCA and recently
+completed a Test Automation Bootcamp where I learned Java, Selenium WebDriver, Cucumber,
+Gherkin, and Manual Testing.I enjoy learning new technologies and improving my programming
+ skills.I am excited to be part of this Java Bootcamp and look forward to learning from
+ mentors and collaborating with my teammates.
+
+ During this bootcamp, I want to strengthen my Java fundamentals, improve my backend
+ development skills, learn Spring Boot, Git, and REST APIs, and gain confidence in
+ building real-world applications. I also want to improve my teamwork and problem-solving
+  skills by collaborating with my teammates.
